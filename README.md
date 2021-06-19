@@ -1,4 +1,11 @@
 Hello,
-my name is Dome and I am from Germany.
+my name is Dome and I am a web-developer.
 
-nice to meet you :)
+Languages:
+- PHP
+- JavaScript
+- TypeScript
+
+Frameworks:
+- Symfony
+- Vue.js
