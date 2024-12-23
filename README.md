@@ -1,14 +1,22 @@
-# Hi there 🙌
+## About me
 
-my name is domenic and i am a fullstack web developer.
+Full-stack developer obsessed with building clean, well-architected web applications.
+I'm a firm believer in following best practices and design patterns.
+Proudly bootstrapped a small SaaS that's (slowly but surely) paying some bills.
+Currently diving deep into the world of AI, exploring how to integrate the latest advancements into our software.
+I strive for honest communication, but always with a dash of humor and a friendly approach.
 
 
-## Tech Stack <3
+## Technologies
 
-**Client:** TypeScript, Sass/CSS, HTML, Vue, Bulma, Oruga, Svelte, Vitest, Jest, Playwright, Cypress
+`let languages = ['JavaScript', 'TypeScript', 'PHP', 'HTML', 'CSS'];`
 
-**Server:** PHP, TypeScript, SQL, MongoDB, Symfony
+`let frameworks = ['Symfony', 'Vue'];`
 
-**Cloud:** AWS; digitalocean
+`let databases = ['SQL', 'MongoDB', 'DynamoDB']`
 
-**OS:** Linux 🐧
+`const fav_os = ['linux', '🐧'];`
+
+`let cloud_experience = ['aws', 'DigitalOcean'];`
+
+`let some_misc_stuff = ['Terraform', 'Svelte', 'C#', '.NET'];`
