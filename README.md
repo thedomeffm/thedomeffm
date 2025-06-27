@@ -9,14 +9,16 @@ I strive for honest communication, but always with a dash of humor and a friendl
 
 ## Technologies
 
-`let languages = ['JavaScript', 'TypeScript', 'PHP', 'HTML', 'CSS'];`
+`cat ./thedomeffm.json`
 
-`let frameworks = ['Symfony', 'Vue'];`
-
-`let databases = ['SQL', 'MongoDB', 'DynamoDB']`
-
-`const fav_os = ['linux', '🐧'];`
-
-`let cloud_experience = ['aws', 'DigitalOcean'];`
-
-`let some_misc_stuff = ['Terraform', 'Svelte', 'C#', '.NET'];`
+```json
+{
+  "first_name": "Domenic",
+  "last_name": "*********",
+  "languages": ["PHP","JavaScript","TypeScript","HTML","CSS","SQL"],
+  "frameworks": ["Symfony","Vue","AdonisJS"],
+  "databases": ["SQL","MongoDB","DynamoDB"],
+  "os": ["🐧"],
+  "cloud_providers": ["aws","DigitalOcean"]
+}
+```
